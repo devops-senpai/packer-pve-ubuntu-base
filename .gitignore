@@ -1,0 +1,4 @@
+.env
+manifests/
+!manifests/.gitkeep
+*.iso
